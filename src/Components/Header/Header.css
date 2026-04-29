@@ -1,26 +1,29 @@
 .all-header {
-  background-color: pink;
+  /* background-color: pink; */
   width: 100%;
   height: 8vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); */
+  box-shadow:
+    0 8px 10px -5px rgba(0, 0, 0, 0.3),
+    Bottom shadow line 0 -8px 10px -5px rgba(0, 0, 0, 0.3);
 }
 .header-wrapper {
-  background-color: yellow;
+  /* background-color: yellow; */
   width: 95%;
   height: 100%;
 }
 .header {
-  background-color: red;
+  /* background-color: red; */
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: space-between;
 }
 .header-left {
-  background-color: orange;
+  /* background-color: orange; */
   width: 30%;
   height: 100%;
   display: flex;
@@ -28,15 +31,15 @@
   align-items: center;
 }
 
-.header-left h1 {
+.header-left h3 {
   font-size: 30px;
   color: #2473d8;
   font-weight: 700;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Ar3al, Helvetica, sans-serif;
 }
 
 .header-right {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   width: 30%;
   height: 100%;
   display: flex;
