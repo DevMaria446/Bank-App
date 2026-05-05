@@ -238,6 +238,7 @@
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.5);
   display: flex;
   justify-content: center;
+  
 }
 .landingPage-right-down-wrapper {
   /* background-color: aquamarine; */
@@ -266,6 +267,7 @@
   /* background-color: orange; */
   width: 100%;
   height: 50%;
+  
 }
 .down-1 {
   /* background-color: #adb3be; */
